@@ -2,9 +2,9 @@
 header('Content-Type: application/json');
 
 $servername = "localhost"; // Замените на ваши данные
-$username = "root"; // Замените на ваши данные
-$password = ""; // Замените на ваши данные
-$dbname = "your_database"; // Замените на название вашей базы данных
+$username = "sdscoop"; // Замените на ваши данные
+$password = "q6_{wM!nCA7q$R%Q"; // Замените на ваши данные
+$dbname = "sdscoop"; // Замените на название вашей базы данных
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
